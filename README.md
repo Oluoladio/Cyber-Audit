@@ -1,4 +1,4 @@
-# Cybersecurity Audit – SafeInvest(GRC Case Study)
+# Cybersecurity Audit – SafeInvest( A Case Study)
 
 A fictional fintech startup based in the UAE. This project simulates a real-world internal audit designed to evaluate the current security posture, identify vulnerabilities, and ensures compliance with key frameworks such as ISO 27001:2022, PCI DSS, and UAE Central Bank Information Security Regulations.
 
