@@ -1,10 +1,10 @@
-# Internal Cybersecurity Audit – SafeInvest MENA (GRC Case Study)
+# Cybersecurity Audit – SafeInvest(GRC Case Study)
 
-Welcome to the Cybersecurity Audit case study for **SafeInvest**, a fictional fintech startup based in the UAE. This project simulates a real-world internal audit designed to evaluate the current security posture, identify vulnerabilities, and ensure compliance with key frameworks such as ISO 27001:2022, PCI DSS, and UAE Central Bank Information Security Regulations.
+A fictional fintech startup based in the UAE. This project simulates a real-world internal audit designed to evaluate the current security posture, identify vulnerabilities, and ensure compliance with key frameworks such as ISO 27001:2022, PCI DSS, and UAE Central Bank Information Security Regulations.
 
 ## Project Overview
 
-SafeInvest offers digital wealth management, mobile trading, and cross-border payment services. With rapid growth comes new cybersecurity challenges—especially in protecting sensitive financial and personal data. This audit was initiated to review the existing security setup, assess risks, and determine where improvements are needed.
+SafeInvest offers digital wealth management, mobile trading, and cross-border payment services. With rapid growth comes new cybersecurity challenges, especially in protecting sensitive financial and personal data. This audit was initiated to review the existing security setup, assess risks, and determine where improvements are needed.
 
 ### Key Objectives:
 - **Define Audit Scope & Goals:** Identify and evaluate key digital assets and assess the risks they face.
@@ -20,9 +20,10 @@ All detailed documents are provided in PDF format in the `/docs/` folder:
 - **[Audit_ComplianceChecklist.pdf](docs/Audit_ComplianceChecklist.pdf):** Checklist assessing compliance status (met, unmet, partially met) for key security controls.
 
 
-## Why This Project Matters
+## 📌 Note
 
-This comprehensive audit simulation demonstrates a methodical approach to cybersecurity risk management and compliance. It highlights:
+This mock case study is intended solely for professional development. No accurate client data is used. It demonstrates a methodical approach to cybersecurity risk management and compliance, highlighting:
+
 - A detailed evaluation of SafeInvest’s current security posture.
 - Identification of key vulnerabilities and control gaps.
 - Actionable recommendations to enhance cybersecurity and support regulatory compliance.
