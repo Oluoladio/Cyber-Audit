@@ -15,7 +15,7 @@ SafeInvest offers digital wealth management, mobile trading, and cross-border pa
 ## Documentation
 
 All detailed documents are provided in PDF format in the `/docs/` folder:
-- **[Audit_Scope_and_RiskAssessment.pdf](docs/Audit_Scope_and RiskAssessment.pdf):** Overview of the audit scope, objectives, and risk assessment.
+- **[Audit_Scope.pdf](docs/Audit_Scope.pdf):** Overview of the audit scope, objectives, and risk assessment.
 - **[Audit_Control_Categories.pdf](docs/Audit_Control_Categories.pdf):** Breakdown of cybersecurity controls—Administrative, Technical, and Physical/Operational.
 - **[Audit_ComplianceChecklist.pdf](docs/Audit_ComplianceChecklist.pdf):** Checklist assessing compliance status (met, unmet, partially met) for key security controls.
 
